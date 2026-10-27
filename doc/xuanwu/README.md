@@ -9,6 +9,7 @@
 
 ### 教程开始
 
+
 1. docker版自带 nodejs 可跳过安装环境，linux 和 windows 需自己下载安装
 
 2. 下载项目
